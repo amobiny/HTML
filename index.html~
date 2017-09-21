@@ -15,7 +15,7 @@
 <!-- the main section of the webpage -->
 
 <h1> The Fish website </h1>
-<!-- Heading - creates a larger text -->
+<!-- Heading - creates a section header with larger text -->
 
 <p> Welcome to the Fish website. Everything you want to know about fish is here! </p>
 <!-- Paragraph -->
@@ -24,8 +24,25 @@
 <!-- subsection -->
 <p> Welcome to the Fish website. Everything you want to know about fish is here! </p>
 
+
+<br>
+<!-- creates a line break - It is an empty element meaning that it doesn't need a closing tag -->
+<br>
+<br>
+
+
+<!-- Testing the spaces -->
+test test <br>
+test 		test <br>
+doesn't work! <br>
+
+test &nbsp test <br>
+test &nbsp&nbsp test <br>
+
+
+
 <h3> Subsubsection </h3>
-<!-- subsection -->
+<!-- subsubsection -->
 <p> Welcome to the Fish website. Everything you want to know about fish is here! </p>
 
 
