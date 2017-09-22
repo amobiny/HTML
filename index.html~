@@ -10,6 +10,7 @@
 <title> Aryan Mobiny </title>
 <!-- title of the webpage -->
 
+<head>
 
 <body>
 <!-- the main section of the webpage -->
@@ -59,7 +60,7 @@ test &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp test <br>
 		<li>CD</li>
 		<li>DVD</li>
 		<li>BlueRay</li>
-	</ul>
+	</ol>
 
 
 <table>
@@ -85,18 +86,60 @@ test &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp test <br>
 </table>
 
 
-<!-- creatng a web link to an outside URL -->
+<!-- creatng a link to an outside URL -->
 <p> Please click on this link
 <a href="www.google.com">
-Google webpage
-</a>
+Google webpage </a>
 </p>
 
 
 
 
+<!-- creatng a link within same webpage -->
+<ul>
+	<li><a href="#Birds">Birds section </a></li>
+	<!-- "#" is very important - tells that it links to something in the current page -->
+	<li><a href="#Ducks">Ducks section </a></li>
+</ul>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Birds"> This is the article about birds. </a> </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p> <a name="Ducks"> This is the article about ducks. </a> </p>
 
 
 
@@ -107,7 +150,6 @@ Google webpage
 </body>
 
 
-<head>
 
 
 </html>
