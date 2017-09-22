@@ -71,17 +71,37 @@ test &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp test <br>
 	<th> The Oceans </th>
 	<th> The Deserts </th>
 </tr>
-
 <tr>
 	<td> Earth </td>
 	<!-- creating a data tag - it's not BOLD -->
 	<td> Pacific </td>
 	<td> Sahara </td>
 </tr>
-
-
-
+<tr>
+	<td> Pluto </td>
+	<td> Atlantic </td>
+	<td> Gobi </td>
+</tr>
 </table>
+
+
+<!-- creatng a web link to an outside URL -->
+<p> Please click on this link
+<a href="www.google.com">
+Google webpage
+</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 </body>
