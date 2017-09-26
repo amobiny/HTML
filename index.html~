@@ -50,7 +50,8 @@ test &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp test <br>
 
 	<ul>
 	<!-- creating an unordered list -->
-		<li>CD</li>
+		<li>CD</li> 
+		<!-- list tag -->
 		<li>DVD</li>
 		<li>BlueRay</li>
 	</ul>
@@ -63,27 +64,27 @@ test &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp test <br>
 	</ol>
 
 
-<table>
-<!-- creating a table -->
-<tr>
-<!-- creating a row -->
-	<th> The Planets </th>
-	<!-- creating a column - it's gonna be BOLD -->
-	<th> The Oceans </th>
-	<th> The Deserts </th>
-</tr>
-<tr>
-	<td> Earth </td>
-	<!-- creating a data tag - it's not BOLD -->
-	<td> Pacific </td>
-	<td> Sahara </td>
-</tr>
-<tr>
-	<td> Pluto </td>
-	<td> Atlantic </td>
-	<td> Gobi </td>
-</tr>
-</table>
+	<table>
+	<!-- creating a table -->
+	<tr>
+	<!-- creating a row -->
+		<th> The Planets </th>
+		<!-- creating a column - it's gonna be BOLD -->
+		<th> The Oceans </th>
+		<th> The Deserts </th>
+	</tr>
+	<tr>
+		<td> Earth </td>
+		<!-- creating a data tag - it's not BOLD -->
+		<td> Pacific </td>
+		<td> Sahara </td>
+	</tr>
+	<tr>
+		<td> Pluto </td>
+		<td> Atlantic </td>
+		<td> Gobi </td>
+	</tr>
+	</table>
 
 
 <!-- creatng a link to an outside URL -->
@@ -142,9 +143,9 @@ Google webpage </a>
 <p> <a name="Ducks"> This is the article about ducks. </a> </p>
 
 
-
-
-
+<!-- Video 7 - Adding an image -->
+<h1> Precision-Recall curve <h1> 
+<p> <img src="pr.pdf"> </p>
 
 
 </body>
