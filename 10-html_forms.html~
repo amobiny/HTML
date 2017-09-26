@@ -9,13 +9,22 @@
 <!-- HTML forms -->
 <form actions="" methods="">
 <!-- form element (to fill out informtions) - "actions" and "methods" are the attributes -->
-<!-- input elements fo in here -->
+<!-- input elements go in here (input elements don't need a closing tag - empty element) -->
 
 <input type="text" name="">
 <!-- "type" is the attribute - "text": creates a one-line text box -->
 </br> </br>
 <input type="text" name="" size="50">
 <!-- increasing the size to 50 characters -->
+
+</br> </br>
+
+<!-- adding label to an input element-->
+<label for="firstname"> First Name: </label>
+<input type="text" name="" size="50" id="firstname">
+</br> </br>
+<label for="lastname"> Last Name: </label>
+<input type="text" name="" size="50" id="lastname">
 
 </form>
 
