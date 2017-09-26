@@ -153,6 +153,14 @@ Google webpage </a>
 <!-- values are in pixels -->
 
 
+<!-- Video 9 - Nested Elements -->
+<!-- putting an element within another element
+For example:
+<html> element is the only element which is not nested (called root element)
+<head> and <body> elements are nested inside the <html element>
+<p> is also nested within <body> element
+therefor, <p> is the child and <body> is the parent element    -->
+
 
 </body>
 
