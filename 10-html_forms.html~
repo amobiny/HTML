@@ -19,12 +19,26 @@
 
 </br> </br>
 
-<!-- adding label to an input element-->
+<!-- Video 11 - adding label to an input element-->
 <label for="firstname"> First Name: </label>
 <input type="text" name="" size="50" id="firstname">
 </br> </br>
 <label for="lastname"> Last Name: </label>
 <input type="text" name="" size="50" id="lastname">
+</br> </br>
+
+</form>
+
+
+<!-- Video 12 - Multi-line text box-->
+<form actions="" methods="">
+<!-- to do so, we need to use "textarea" tag-->
+<!-- unlike "input" tag, "textarea" tag needs a closing tag-->
+Comments:</br>  <!-- there is no need to use label tag to add the label-->
+<textarea rows="10" cols="40"></textarea> </br>
+
+<!--To add a submit button:-->
+<input type="submit" value="Submit">
 
 </form>
 
